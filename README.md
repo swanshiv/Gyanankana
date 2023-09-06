@@ -1,6 +1,5 @@
 # Gyanankana
-Automated Question Generator using OpenAI API
-
+Proposing a Automated Assessment Generation Platform for ALL {K-12, Higher Ed, Skilling, Hiring}
 # Automated Question Generation with OpenAI and Gradio
 
 This repository contains a Python script that demonstrates how to generate questions using OpenAI's GPT-3 and provides a web-based user interface for generating questions based on a given passage.
